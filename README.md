@@ -24,7 +24,6 @@ The Safety Gear Detection System uses computer vision techniques to monitor safe
 ### Prerequisites
 - Python 3.7+
 - OpenCV
-- PyTorch
 - YOLOv8
 
 ### Steps
